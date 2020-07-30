@@ -1,183 +1,97 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Inspirações",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
+      "cor": "#DC143C",
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "A HORA DAS MULHERES NA TECNOLOGIA | Mentes da Tecnologia S01E02 - Camila Achutti",
+          "url": "https://www.youtube.com/watch?v=pjoKEkg_HIA"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Katie Bouman: a mulher responsável pela foto do buraco negro",
+          "url": "https://www.youtube.com/watch?v=qbD4YuE6Mm0"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "Mulheres na Computação | Camila Achutti | TEDxUSP",
+          "url": "https://www.youtube.com/watch?v=Qq9h2vVBZmQ"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Mulheres nas CIÊNCIAS - Mulheres na História",
+          "url": "https://www.youtube.com/watch?v=x9thAE3zmRI"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Mulheres na TI - Conheça algumas das mulheres da BHS",
+          "url": "https://www.youtube.com/watch?v=oShjbQvkxQc"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Grace Hopper, Computer Scientist and Military Leader | Biography",
+          "url": "https://www.youtube.com/watch?v=meeCAFacrG0"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Carol Shaw: The Game Awards Industry Icon (Extended)",
+          "url": "https://www.youtube.com/watch?v=a78uBNlI8Z0"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Margaret Hamilton, NASA's First Software Engineer",
+          "url": "https://www.youtube.com/watch?v=kTn56jJW4zY"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
-      "videos": [
-        {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
-        },
-        {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
-        },
-        {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
-        },
-        {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
-        }, 
-        {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
+      "titulo": "Aprendendo juntas!",
+      "cor": "#8B0000",
       "videos": [
         {
           "titulo": "Teste de Turing",
           "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "Dicas essenciais para quem quer se tornar desenvolvedor",
+          "url": "https://www.youtube.com/watch?v=VVGOJ7Qu54k"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Rotina de uma desenvolvedora JAVA",
+          "url": "https://www.youtube.com/watch?v=LuLCI0EaZxU"
         },
         {
           "titulo": "Como ingressar no mercado de Data Science?",
           "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+        },
+        {
+          "titulo": "Como me tornei desenvolvedora",
+          "url": "https://www.youtube.com/watch?v=Ft3h4dG33rw"
+        },
+        {
+          "titulo": "Arquitetura de Microservices",
+          "url": "https://www.youtube.com/watch?v=zd5iI9tLKm8"
+        },
+        {
+          "titulo": "4 mitos sobre programação",
+          "url": "https://www.youtube.com/watch?v=yj0FR_gm0sM"
+        },
+        {
+          "titulo": "Quais são as principais plataformas pra criar games?",
+          "url": "https://www.youtube.com/watch?v=NQMQWwUkLQs"
         }
       ]
     },
     {
-      "titulo": "Filmes",
-      "cor": "orange",
+      "titulo": "Filmes & Documentários",
+      "cor": "#C71585",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Estrelas Além do Tempo | Trailer Internacional Oficial | Legendado HD",
+          "url": "https://www.youtube.com/watch?v=wx3PVtrU-Os"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "BBC DOCUMENTARY : Calculating Ada - The Countess of Computing 2015",
+          "url": "https://www.youtube.com/watch?v=QgUVrzkQgds"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
-        }
-      ]
-    },
-    {
-      "titulo": "Games",
-      "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
-      "videos": [
-        {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
-        },
-        {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
-        },
-        {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
-        },
-        {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
-        },
-        {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
-        }
-      ]
-    },
-    {
-      "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
-      "videos": [
-        {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
-        },
-        {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
-        },
-        {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        },
-        {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
-        },
-        {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "CODEGIRL OFFICIAL TRAILER",
+          "url": "https://www.youtube.com/watch?v=cRb5iel-3Ck"
         }
       ]
     }
