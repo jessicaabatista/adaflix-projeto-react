@@ -11,9 +11,9 @@ function Home() {
       <Menu/>
 
       <BannerMain
-        videoTitle={dadosIniciais.categorias[0].videos[0].titulo}
+        videoTitle= "Bem-vinda ao ADAFLIX!"
         url={dadosIniciais.categorias[0].videos[0].url}
-        videoDescription={"O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal? Descubra com a Vanessa!"}
+        videoDescription={"Aqui você pode ter acesso a vídeos sobre outras mulheres espalhadas pelo mundo que fizeram e fazem história na tecnologia. O nome 'Adaflix' é para homenagear a grande Augusta Ada King, a Condessa de Lovelace, que foi a primeira programadora da história."}
       />
 
       <Carousel
@@ -28,7 +28,7 @@ function Home() {
       <Carousel
         category={dadosIniciais.categorias[2]}
       />      
-      
+
       <Footer />
     </div>
   );
