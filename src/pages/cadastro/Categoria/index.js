@@ -32,7 +32,7 @@ function CadastroCategoria() {
 
   useEffect(() => {
     if (window.location.href.includes('localhost')) {
-      const URL = 'http://localhost:8080/categorias';
+      const URL = 'https://adaflix-2020.herokuapp.com/';
       fetch(URL)
         .then(async (respostaDoServer) => {
           if (respostaDoServer.ok) {
