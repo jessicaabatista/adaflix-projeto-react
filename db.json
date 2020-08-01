@@ -1,0 +1,135 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Inspirações",
+      "cor": "#DC143C"
+    },
+    {
+      "id": 2,
+      "titulo": "Aprendendo juntas!",
+      "cor": "#8B0000"
+    },
+    {
+      "id": 3,
+      "titulo": "Filmes & Documentários",
+      "cor": "#C71585"
+    }
+   ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "A HORA DAS MULHERES NA TECNOLOGIA | Mentes da Tecnologia S01E02 - Camila Achutti",
+      "url": "https://www.youtube.com/watch?v=pjoKEkg_HIA"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "Katie Bouman: a mulher responsável pela foto do buraco negro",
+      "url": "https://www.youtube.com/watch?v=qbD4YuE6Mm0"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "Mulheres na Computação | Camila Achutti | TEDxUSP",
+      "url": "https://www.youtube.com/watch?v=Qq9h2vVBZmQ"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "Mulheres nas CIÊNCIAS - Mulheres na História",
+      "url": "https://www.youtube.com/watch?v=x9thAE3zmRI"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Mulheres na TI - Conheça algumas das mulheres da BHS",
+      "url": "https://www.youtube.com/watch?v=oShjbQvkxQc"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "Grace Hopper, Computer Scientist and Military Leader | Biography",
+      "url": "https://www.youtube.com/watch?v=meeCAFacrG0"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "Carol Shaw: The Game Awards Industry Icon (Extended)",
+      "url": "https://www.youtube.com/watch?v=a78uBNlI8Z0"
+    },
+    {
+      "id": 8,
+      "categoriaId": 1,
+      "titulo": "Margaret Hamilton, NASA's First Software Engineer",
+      "url": "https://www.youtube.com/watch?v=kTn56jJW4zY"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Teste de Turing",
+      "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "Dicas essenciais para quem quer se tornar desenvolvedor",
+      "url": "https://www.youtube.com/watch?v=VVGOJ7Qu54k"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "Rotina de uma desenvolvedora JAVA",
+      "url": "https://www.youtube.com/watch?v=LuLCI0EaZxU"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "Como ingressar no mercado de Data Science?",
+      "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+    },
+    {
+      "id": 13,
+      "categoriaId": 2,
+      "titulo": "Como me tornei desenvolvedora",
+      "url": "https://www.youtube.com/watch?v=Ft3h4dG33rw"
+    },
+    {
+      "id": 14,
+      "categoriaId": 2,
+      "titulo": "rquitetura de Microservices",
+      "url": "https://www.youtube.com/watch?v=zd5iI9tLKm8"
+    },
+    {
+      "id": 15,
+      "categoriaId": 2,
+      "titulo": "4 mitos sobre programação",
+      "url": "https://www.youtube.com/watch?v=yj0FR_gm0sM"
+    },
+    {
+      "id": 16,
+      "categoriaId": 2,
+      "titulo": "Quais são as principais plataformas pra criar games?",
+      "url": "https://www.youtube.com/watch?v=NQMQWwUkLQs"
+    },
+    {
+      "id": 17,
+      "categoriaId": 3,
+      "titulo": "Estrelas Além do Tempo | Trailer Internacional Oficial | Legendado HD",
+      "url": "https://www.youtube.com/watch?v=wx3PVtrU-Os"
+    },
+    {
+      "id": 18,
+      "categoriaId": 3,
+      "titulo": "BBC DOCUMENTARY : Calculating Ada - The Countess of Computing 2015",
+      "url": "https://www.youtube.com/watch?v=QgUVrzkQgds"
+    },
+    {
+      "id": 19,
+      "categoriaId": 3,
+      "titulo": "CODEGIRL OFFICIAL TRAILER",
+      "url": "https://www.youtube.com/watch?v=cRb5iel-3Ck"
+    }
+  ]
+}
